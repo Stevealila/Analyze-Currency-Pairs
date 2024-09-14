@@ -2,3 +2,5 @@ v_env
 venv
 env
 v
+.env
+__pycache__
